@@ -1,0 +1,9 @@
+
+State Machine - |calculator|state_ctrl:i_state_ctrl|state
+Name state.s_continue state.s_result state.s_enter state.s_second state.s_calcul state.000 
+state.000 0 0 0 0 0 0 
+state.s_calcul 0 0 0 0 1 1 
+state.s_second 0 0 0 1 0 1 
+state.s_enter 0 0 1 0 0 1 
+state.s_result 0 1 0 0 0 1 
+state.s_continue 1 0 0 0 0 1 

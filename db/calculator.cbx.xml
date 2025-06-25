@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="calculator">
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div11" CBX_FILE_NAME="lpm_divide_5jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod14" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_dkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div12" CBX_FILE_NAME="lpm_divide_2jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_lkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div8" CBX_FILE_NAME="lpm_divide_5jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod12" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_0jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_3bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_mult:Mult4" CBX_FILE_NAME="mult_2dt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div10" CBX_FILE_NAME="lpm_divide_fkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div9" CBX_FILE_NAME="lpm_divide_2jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod13" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod8" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_3jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_3bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod10" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod9" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_3bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Div7" CBX_FILE_NAME="lpm_divide_fkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|display:i_display|lpm_divide:Mod11" CBX_FILE_NAME="lpm_divide_5bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|calculator|num_in:i_num_in|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_3bm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
