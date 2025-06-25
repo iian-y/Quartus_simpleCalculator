@@ -1,0 +1,2 @@
+# Quartus_simpleCalculator
+基于FPGA的简易计算器Verilog代码Quartus仿真
